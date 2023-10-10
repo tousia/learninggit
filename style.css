@@ -1,0 +1,4 @@
+h1,p,body{
+   counter-reset: red;
+   background-color: aqua;
+}
